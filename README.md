@@ -2,7 +2,7 @@
 1014_致理_python_大數據探勘
 
 ## 上課網址
-[google meeting] (https://meet.google.com/bio-hmps-bpr)  
+[google meeting](https://meet.google.com/bio-hmps-bpr)  
 [老師github](https://github.com/roberthsu2003)
 ### MarkDown
 [MarkDown](https://markdown.tw/)  
