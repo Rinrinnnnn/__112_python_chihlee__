@@ -1,3 +1,7 @@
 pyInputPlus
 requests
-pandas
+pandas #numpy含在內
+psycopg2
+SQLAlchemy
+fake-useragent
+openpyxl
