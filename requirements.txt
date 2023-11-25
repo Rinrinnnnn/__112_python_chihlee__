@@ -5,3 +5,4 @@ psycopg2
 SQLAlchemy
 fake-useragent
 openpyxl
+Jinja2
