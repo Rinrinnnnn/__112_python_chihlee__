@@ -6,3 +6,4 @@ SQLAlchemy
 fake-useragent
 openpyxl
 Jinja2
+matplotlib
