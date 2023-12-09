@@ -7,3 +7,4 @@ fake-useragent
 openpyxl
 Jinja2
 matplotlib
+beautifulsoup4
